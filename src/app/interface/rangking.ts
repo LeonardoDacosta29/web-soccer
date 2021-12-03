@@ -5,4 +5,4 @@ export interface Rangking {
     Ties : number,
     GoalsFor : number,
     GoalAgaints : number,
-}
+} 
