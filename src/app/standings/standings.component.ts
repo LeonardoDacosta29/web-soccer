@@ -8,7 +8,7 @@ import { SoccerService } from '../service/SoccerService';
 @Component({
     selector:'app-standings',
     templateUrl: './standings.component.html',
-    styleUrls:['./standings.component.CSS']
+    styleUrls:['./standings.component.css']
 
 })
 export class StandingsComponent implements OnInit {
